@@ -9,6 +9,6 @@ single tema: /teams/$TeamName
 
   ex- /teams/Mumbai%20Indians
   
- matches data according to yeat : teams/$teamName/matches/$year
+ matches data according to year : teams/$teamName/matches/$year
  
   ex- /teams/Mumbai%20Indians/2020
